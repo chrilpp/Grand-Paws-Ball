@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="GrandPawsBall.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scrips\playerController.cs">
+    <Files>
+      <File FileName="Assets\Scrips\playerController.cs" Line="18" Column="38" />
+      <File FileName="..\..\JazzBall\JazzBall\Assets\Scripts\PlayerController.cs" Line="48" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
