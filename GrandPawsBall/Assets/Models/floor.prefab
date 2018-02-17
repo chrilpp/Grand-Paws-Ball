@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 23279921761311730}
   - component: {fileID: 54403289033797762}
   m_Layer: 0
-  m_Name: glolv
+  m_Name: floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
